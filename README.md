@@ -53,4 +53,4 @@ Stores multiple meal plans and includes methods to:
 3. Run the Python file:
 
 ```bash
-python "full project.py"
+python "recipe_book.py"
